@@ -1,0 +1,6 @@
+---
+# tasks file for dirlist
+- name: List Directories Folder
+  shell: ls -al
+- name: List Directories Folder
+  shell: ls 
